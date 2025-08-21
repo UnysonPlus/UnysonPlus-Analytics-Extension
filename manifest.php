@@ -20,7 +20,7 @@ $manifest['github_update'] = 'UnysonPlus/UnysonPlus-Analytics-Extension';
 $manifest['github_repo']   = 'https://github.com/UnysonPlus/UnysonPlus-Analytics-Extension';
 $manifest['github_branch'] = 'master'; // optional, can use 'stable'
 
-// Author Info
+// Author Info 
 $manifest['author']     = 'UnysonPlus';
 $manifest['author_uri'] = 'https://www.lastimosa.com.ph/unysonplus';
 
